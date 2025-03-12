@@ -1,1 +1,1 @@
-tester git
+tester pull
